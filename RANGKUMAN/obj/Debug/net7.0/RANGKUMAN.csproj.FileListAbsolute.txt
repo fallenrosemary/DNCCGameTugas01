@@ -1,0 +1,14 @@
+D:\RANGKUMAN\bin\Debug\net7.0\RANGKUMAN.exe
+D:\RANGKUMAN\bin\Debug\net7.0\RANGKUMAN.deps.json
+D:\RANGKUMAN\bin\Debug\net7.0\RANGKUMAN.runtimeconfig.json
+D:\RANGKUMAN\bin\Debug\net7.0\RANGKUMAN.dll
+D:\RANGKUMAN\bin\Debug\net7.0\RANGKUMAN.pdb
+D:\RANGKUMAN\obj\Debug\net7.0\RANGKUMAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\RANGKUMAN\obj\Debug\net7.0\RANGKUMAN.AssemblyInfoInputs.cache
+D:\RANGKUMAN\obj\Debug\net7.0\RANGKUMAN.AssemblyInfo.cs
+D:\RANGKUMAN\obj\Debug\net7.0\RANGKUMAN.csproj.CoreCompileInputs.cache
+D:\RANGKUMAN\obj\Debug\net7.0\RANGKUMAN.dll
+D:\RANGKUMAN\obj\Debug\net7.0\refint\RANGKUMAN.dll
+D:\RANGKUMAN\obj\Debug\net7.0\RANGKUMAN.pdb
+D:\RANGKUMAN\obj\Debug\net7.0\RANGKUMAN.genruntimeconfig.cache
+D:\RANGKUMAN\obj\Debug\net7.0\ref\RANGKUMAN.dll
